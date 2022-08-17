@@ -14,6 +14,8 @@ spotify = spotipy.Spotify(
 genius = lyricsgenius.Genius('biZZReO7F98mji5oz3cE0FiIG73Hh07qoXSIzYSGNN3GBsnY-eUrPAVSdJk_0_de')
 
 
+token="1768229185:AAG-WOv-bl8S0YIBo2QdxFryvKt_TnAVkXo"
+
 class Song:
     def __init__(self, link):
         self.link = link
