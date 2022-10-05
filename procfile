@@ -1,0 +1,1 @@
+worker: python3 tele_music_2.0.py
